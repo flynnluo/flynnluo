@@ -33,14 +33,14 @@
 <table border="0">
   <tr>
     <td>
-      <a href="mailto:">
-        <img alt="Dev Email" src="https://img.shields.io/badge/Dev--EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        <a href="mailto:h.f.luo@outlook.com">
+        <img alt="Academic Email" src="https://img.shields.io/badge/Academic-h.f.luo@outlook.com-0078D4?style=for-the-badge&logo=academia&logoColor=white" />
       </a>
     </td>
     <td>
-      <a href="mailto:h.f.luo@outlook.com">
-        <img alt="Academic Email" src="https://img.shields.io/badge/Academic-h.f.luo@outlook.com-0078D4?style=for-the-badge&logo=academia&logoColor=white" />
-      </a>
+        <a href="mailto:">
+        <img alt="Dev Email" src="https://img.shields.io/badge/Dev--EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+     </a>
     </td>
   </tr>
 </table>
